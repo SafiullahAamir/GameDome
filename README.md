@@ -2,6 +2,7 @@
 
 This repository contains the source code for my Object-Oriented Programming (OOP) project, *"Game Dome."*
 
+![Preview](Preview.png)
 ## Description
 
 The "Game Dome" project is a game launcher that includes four different games, showcasing my understanding and application of OOP principles. The games included are:
