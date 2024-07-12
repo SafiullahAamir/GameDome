@@ -48,36 +48,36 @@ The dice are rolled, and the results are revealed. If a player's guess matches t
 To get started with any of these games, follow the instructions below:
 
 1. *Clone the repository:*
-    sh
+    ```sh
     git clone https://github.com/yourusername/gamedome.git
-    
+    ```
 
 2. *Navigate to the game directory:*
-    sh
+    ```sh
     cd gamedome
-    
+    ```
 
 3. *Compile and run the game of your choice:*
     - For *Gerangelo*:
-        sh
+        ```sh
         g++ -o gerangelo gerangelo.cpp
         ./gerangelo
-        
+        ```
     - For *Rock, Paper, Scissors*:
-        sh
+        ```sh
         g++ -o rps rps.cpp
         ./rps
-        
+        ```
     - For *7 Up 7 Down*:
-        sh
+        ```sh
         g++ -o 7up7down 7up7down.cpp
         ./7up7down
-        
+        ```
     - For *SOS*:
-        sh
+        ```sh
         g++ -o sos sos.cpp
         ./sos
-        
+        ```
 
 ## Contributing
 
