@@ -67,7 +67,7 @@ To get started with any of these games, follow the instructions below:
         ```sh
         g++ -o rps rps.cpp
         ./rps
-        
+        ```
     - For *7 Up 7 Down*:
         ```sh
         g++ -o 7up7down 7up7down.cpp
