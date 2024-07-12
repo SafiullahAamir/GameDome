@@ -1,0 +1,18 @@
+                  ____  __  ____    ___________
+                 / __ \/ / / / /   / ____/ ___/
+                / /_/ / / / / /   / __/  \__ \ 
+               / _, _/ /_/ / /___/ /___ ___/ / 
+              /_/ |_|\____/_____/_____//____/  
+
+7 UP 7 DOWN
+
+Players place their bets on one or more of the following options:
+
+7 Down: The sum of the dice will be less than 7.
+
+7 Up: The sum of the dice will be greater or equal to 7.
+
+Gameplay:
+The input rolls the two dice.
+The results are revealed, showing the total sum of the dice.
+If a player’s guess matches the outcome, they win.

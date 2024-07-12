@@ -1,0 +1,18 @@
+                  ____  __  ____    ___________
+                 / __ \/ / / / /   / ____/ ___/
+                / /_/ / / / / /   / __/  \__ \ 
+               / _, _/ /_/ / /___/ /___ ___/ / 
+              /_/ |_|\____/_____/_____//____/  
+
+
+SOS
+
+The goal of SOS is to spell out the word SOS within the connected boxes on the board.
+
+The sequence you make must always be vertical, horizontal, or diagonal.
+
+Each player takes turns putting down a letter (either S or O), and then the turns alternate.
+
+You can place your letter anywhere on the board; it does not have to connect with pre-existing letters.
+
+If your opponent has played an O after an S, you can play an S to score a point, or vice versa.

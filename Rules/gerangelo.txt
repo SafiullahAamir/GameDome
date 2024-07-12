@@ -1,0 +1,17 @@
+                  ____  __  ____    ___________
+                 / __ \/ / / / /   / ____/ ___/
+                / /_/ / / / / /   / __/  \__ \ 
+               / _, _/ /_/ / /___/ /___ ___/ / 
+              /_/ |_|\____/_____/_____//____/ 
+ 
+                                 
+
+Gerangelo
+
+The Player will be given the option of easy, medium, and hard:
+
+He will select a level from the three given
+
+A set of scrambled letters will be shown
+
+The player's goal is to rearrange them to form valid words.

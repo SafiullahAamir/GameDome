@@ -1,0 +1,22 @@
+                  ____  __  ____    ___________
+                 / __ \/ / / / /   / ____/ ___/
+                / /_/ / / / / /   / __/  \__ \ 
+               / _, _/ /_/ / /___/ /___ ___/ / 
+              /_/ |_|\____/_____/_____//____/  
+
+
+
+Rock paper scissors
+
+The Player will be given three options Rock, Paper, and Scissors
+
+The player will select one from the three 
+
+The computer will show its choice
+
+Rules are:
+Rock beats scissors.
+Scissors beat paper.
+Paper beats rock.
+
+If the user beats the computer's choice then he wins
