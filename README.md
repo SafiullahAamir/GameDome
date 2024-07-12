@@ -80,7 +80,7 @@ To get started with any of these games, follow the instructions below:
 
 ## Contributing
 
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+Feel free to fork this repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
